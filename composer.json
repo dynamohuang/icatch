@@ -1,0 +1,17 @@
+{
+    "name": "dynamohuang/icatch",
+    "description": "icatch",
+    "authors": [
+        {
+            "name": "dynamohuang",
+            "email": "huangdingzhi@foxmail.com"
+        }
+    ],
+	"autoload": {
+		"classmap": ["app/lib"]
+	},
+    "require": {
+	"stil/curl-easy":"*",
+	"sunra/php-simple-html-dom-parser":"*"
+	}
+}
